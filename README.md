@@ -8,7 +8,7 @@ Lab-1:[Lab 1 Introduction to AWS IAM | Module 4 - AWS Cloud Security | AWS Acade
 
 Lab-2:[Lab 2 Build your VPC and Launch a Web Server|Module5 Networking & Content Delivery|cloud foundations](https://www.youtube.com/watch?v=pFZ2Sj5zJco)
 
-Lab-3:[Lab 3: Introduction to Amazon EC2](https://www.youtube.com/watch?v=fttj3sv91JA)
+Lab-3:[Lab 3: Introduction to Amazon EC2](https://www.youtube.com/watch?v=jGx3GxbrQRo)
 
 Lab-4:[Lab 4 working with EBS | Module 7 - Storage | AWS Academy | AWS cloud foundations | Amazon AWS](https://www.youtube.com/watch?v=xLWLwlVEOBE)
 
