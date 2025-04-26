@@ -15,3 +15,5 @@ Lab-4:[Lab 4 working with EBS | Module 7 - Storage | AWS Academy | AWS cloud fou
 Lab-5:[(159) Lab 5: Build Your DB Server and Interact With Your DB Using an App - YouTube](https://www.youtube.com/watch?v=sVamI6Z_8g4)
 
 Lab-6:[AWS Cloud Foundations - CLF Lab 6: Scale and Load Balance Your Architecture - Anand K](https://www.youtube.com/watch?v=sCBiR9-YaTw&t=7s)
+or
+https://www.bilibili.com/video/BV1jH4y137BV?vd_source=8b8395e120382e1e729477a227b57ab1&spm_id_from=333.788.player.switch
